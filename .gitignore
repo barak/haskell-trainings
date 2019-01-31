@@ -1,0 +1,16 @@
+/haskell_*/codelab/*.hi
+/haskell_*/codelab/*.o
+/haskell_*/codelab/codelab
+/haskell_*/codelab/solution
+/haskell_*/codelab/test_solution
+/haskell_*/slides/*.aux
+/haskell_*/slides/*.fdb_latexmk
+/haskell_*/slides/*.fls
+/haskell_*/slides/*.log
+/haskell_*/slides/*.nav
+/haskell_*/slides/*.out
+/haskell_*/slides/*.snm
+/haskell_*/slides/*.toc
+/haskell_*/slides/*.vrb
+/haskell_*/slides/*.xdv
+/haskell_*/slides/haskell_*.pdf
