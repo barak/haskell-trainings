@@ -13,3 +13,6 @@ solution: Main.hs Solution.hs
 
 clean:
 	rm -fv $(TARGETS) *.hi *.o
+
+# Parallel invocations of ghc will step on each others’ toes, so:
+.NOTPARALLEL:
