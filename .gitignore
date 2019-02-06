@@ -4,6 +4,7 @@
 /haskell_*/codelab/*.o
 /haskell_*/codelab/codelab
 /haskell_*/codelab/solution
+/haskell_*/codelab/test_codelab
 /haskell_*/codelab/test_solution
 /haskell_*/codelab/test_codelab
 
