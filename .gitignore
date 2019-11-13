@@ -18,3 +18,6 @@
 /haskell_*/slides/*.vrb
 /haskell_*/slides/auto/
 /haskell_*/slides/_minted-*/
+/haskell_*/slides/*.fdb_latexmk
+/haskell_*/slides/*.fls
+/haskell_*/slides/*.xdv
